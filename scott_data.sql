@@ -88,3 +88,5 @@ insert into salgrade (grade, losal, hisal) values (2, 1201, 1400);
 insert into salgrade (grade, losal, hisal) values (3, 1401, 2000);
 insert into salgrade (grade, losal, hisal) values (4, 2001, 3000);
 insert into salgrade (grade, losal, hisal) values (5, 3001, 9999);
+
+
